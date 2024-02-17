@@ -10,14 +10,12 @@ getwd()
 
 ## Data de niños
 boysT12 <- read.table("boys_bmi_T12.csv",h=T,sep=",")
-boysT13 <- read.table("boys_bmi_T13.csv",h=T,sep=",")
 boysT23 <- read.table("boys_bmi_T23.csv",h=T,sep=",")
 boysT34 <- read.table("boys_bmi_T34.csv",h=T,sep=",")
 boysT24 <- read.table("boys_bmi_T24.csv",h=T,sep=",")
 
 ## Data de niñas
 girlsT12 <- read.table("girls_bmi_T12.csv",h=T,sep=",")
-girlsT13 <- read.table("girls_bmi_T13.csv",h=T,sep=",")
 girlsT23 <- read.table("girls_bmi_T23.csv",h=T,sep=",")
 girlsT34 <- read.table("girls_bmi_T34.csv",h=T,sep=",")
 girlsT24 <- read.table("girls_bmi_T24.csv",h=T,sep=",")
@@ -123,8 +121,6 @@ c5=Curvas(boysT24,ga, c("T2-T4 Mapuche", "T2-T4 European"))
 c6=Curvas(girlsT24,ga, c("T2-T4 Mapuche", "T2-T4 European"))
 c7=Curvas(boysT34,ga, c("T3-T4 Mapuche", "T3-T4 European"))
 c8=Curvas(girlsT34,ga, c("T3-T4 Mapuche", "T3-T4 European"))
-c9=Curvas(boysT13,ga, c("T1-T3 Mapuche", "T1-T3 European"))
-c10=Curvas(girlsT13,ga, c("T1-T3 Mapuche", "T1-T3 European"))
 
 # Create plot:
 
