@@ -10,7 +10,7 @@ setwd(link)
 
 f1 <- 'tanner12/data/base_tanner(T1_T2).txt'
 f2 <- paste0('bmi/detail/chr',chr,'_SNP_selected.tsv')
-f3 <- paste0('/data/genetica/tomas_localancestry/gocs_pel_ibs_pel95_phen904/rfmix15.chr',chr,'.stats.phen.pel_ceu.txt')
+f3 <- paste0('/data/genetica/tomas_localancestry/gocs_pel_ibs_pel95_phen904/rfmix15.chr',chr,'.stats.phen.pel_ibs.txt')
 f4 <- paste0('tanner12/output/chr',chr,'_tanner12.txt')
 f5 <- paste0('tanner12/output/chr',chr,'_tanner12failed.txt')
 
