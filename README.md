@@ -1,1 +1,3 @@
-These are the main scripts used in the manuscript entitled "Joint models reveal the genetic architecture of pubertal stage transitions and their association with BMI in a Latino population", now under revision in Human Molecular Genetics. If you use some of them, please cite the original medRxiv preprint (doi: https://doi.org/10.1101/2023.06.29.23292039).
+These are the main scripts used in: Vicuña L, Barrientos E, Leiva-Yamaguchi V, Alvares D, Mericq V, Pereira A, Eyheramendy S. (2024). Joint models reveal genetic architecture of pubertal stage transitions and their association with BMI in admixed Chilean population. Human Molecular Genetics. Jul 9:ddae098. 
+doi: 10.1093/hmg/ddae098. If you use them, please cite the article.
+
